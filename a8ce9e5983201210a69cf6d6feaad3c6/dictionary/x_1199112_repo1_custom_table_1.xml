@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7ae22add83201210a69cf6d6feaad3fd" label="Custom Table 1" max_length="40" name="x_1199112_repo1_custom_table_1" type="collection">
+        <element label="FIrst Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+    </element>
+</database>
